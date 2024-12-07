@@ -24,7 +24,6 @@ dependencies {
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
     modImplementation name: 'baritone-fabric-1.10.2'
-    modImplementation name: 'nether-pathfinder-1.4.1'
     modImplementation name: 'IAS-Fabric-1.20.4-9.0.2-SNAPSHOT'
     modImplementation name: 'satin-1.15.0'
     include name: 'satin-1.15.0'
